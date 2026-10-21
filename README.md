@@ -4,9 +4,9 @@ A classic, interactive browser-based Hangman game built using HTML, CSS, and Jav
 
 ## 🚀 Built With
 
-* **HTML5** - Structure and markup
-* **CSS3** - Styling, layout, and responsiveness
-* **JavaScript (ES6)** - Game logic, word guessing, and interactivity
+* **HTML** - Structure and markup
+* **CSS** - Styling, layout, and responsiveness
+* **JavaScript** - Game logic, word guessing, and interactivity
 
 ## ✨ Features
 
