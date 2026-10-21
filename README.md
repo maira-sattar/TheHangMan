@@ -21,4 +21,4 @@ A classic, interactive browser-based Hangman game built using HTML, CSS, and Jav
 ## 🔗 Links
 
 * **Live Demo:** [Play Hangman Online](https://maira-sattar.github.io/TheHangMan/)
-[![Live Demo](https://img.shields.io/badge/play-%20live%20game-brightgreen)](https://maira-sattar.github.io/TheHangMan/)<img width="1553" height="424" alt="Screenshot 2026-10-21 at 11 11 40 AM" src="https://github.com/user-attachments/assets/a1c085e6-c069-4b47-8897-645a8d8fa0d8" />
+[![Live Demo](https://img.shields.io/badge/play-%20live%20game-brightgreen)](https://maira-sattar.github.io/TheHangMan/)
